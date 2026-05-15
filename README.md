@@ -18,4 +18,4 @@ Prerequesite: it depends on pnpm.
 
 ## How to deploy in production
 
-You should use ansible role **site** from (infra repository)[https://github.com/nilFoundation/infra].
+You should use ansible role **site** from [infra repository](https://github.com/nilFoundation/infra).
